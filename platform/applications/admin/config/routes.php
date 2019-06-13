@@ -9,7 +9,7 @@ $route['chk-code']       					= 'signup/chk_code_verification';
 $route['customer-detail']       			= 'signup/after_code_verification';
 $route['business-detail']       			= 'signup/after_code_verification';
 $route['add-register-data']     			= 'signup/add_register_data';
-$route['login_user'] 						= 'login/user_login_check';
+$route['login_user'] 						= 'auth/login/user_login_check';
 
 
 $route['dashboard'] 						= 'dashboard';
