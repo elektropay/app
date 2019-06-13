@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://app.elektropay.com/';
+$config['base_url'] = 'https://elektropay-app.herokuapp.com/';
 //$config['base_url'] = "https://".$_SERVER['HTTP_HOST']."/elektropayinc_id/";
 //$config['base_url'] = "https://".$_SERVER['HTTP_HOST']."/elektropayinc_id/backup/";
 
