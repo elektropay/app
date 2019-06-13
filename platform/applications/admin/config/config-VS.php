@@ -535,7 +535,7 @@ $config['proxy_ips'] = '';
 | for base controllers and some third-party libraries.
 |
 */
-function spl_autoload_register($class)
+function _autoload($class)
 {
     if (strpos($class, 'CI_') !== 0)
     {
