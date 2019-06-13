@@ -7,7 +7,7 @@
 */
 $config['site_name'] = 'Everpay';
 $config['contact_organization'] = 'Everpay Corporation';
-$config['contact_address'] = '5401 Rue York, Montreal, Quebec, H4E 4E4, Canada';
+$config['contact_address'] = '5700 Yonge Street, Suite 200, Toronto, ON, M2M4K2, Canada';
 $config['contact_phone'] = '+1 800 566 6003';
 $config['contact_fax'] = '';
 $config['contact_email'] = 'hello@everpayinc.com';
@@ -35,7 +35,7 @@ $config['contact_map'] = '<iframe width="100%" height="250" frameborder="0" scro
 | Copyright Note by the Site's Owner
 |--------------------------------------------------------------------------
 */
-$config['copyright_note'] = 'Copyright &copy; 2012 - {year} Everpay LLC. This page has been generated in <strong>{elapsed_time} seconds</strong> using <strong>{memory_usage}</strong> of memory.';
+$config['copyright_note'] = 'Copyright &copy; 2012 - {year} EverPay Inc. This page has been generated in <strong>{elapsed_time} seconds</strong> using <strong>{memory_usage}</strong> of memory.';
 
 
 /*
